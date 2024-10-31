@@ -16,6 +16,7 @@ const playlists = {
   'todays-top-hits': ['greedy', 'it-girl', 'ecstacy', 'moonlight', 'only-in-my-mind', 'strangers', 'smooth-operator-(tiktok-remix)'],
   '80s-hits': ['Never-Gonna-Give-You-Up', 'Forever-Young', 'Kyrie', 'Careless-Whisper', 'Eye-in-the-Sky', 'Rebel-Yell', 'Runaway', 'Everlasting-Love', 'Overkill', 'Down-Under', 'Who-Can-It-Be-Now', 'Everywhere', 'Africa', 'Material-Girl', 'Morning-Train', 'Smooth-Criminal', 'Take-On-Me', 'Dont-Stop-Believin', 'Separate-Ways', 'Dont-You-Want-Me', 'Maneater', '空も飛べるはず', '踊り子', '初恋'],
   'rock-mix': ['rebel-yell', 'little-dark-age', 'scentless-apprentice', 'serve-the-slaves', 'i-hate-myself', 'moist-viagra', 'sappy', 'dumb', 'reap-me', 'heart-shaped-box', 'been-a-son', 'poisons-gone', 'and-I-Love-her', 'aberdeen', 'you-cant-change-me', 'rehash', 'clean-up-before-she-comes', 'burn-the-rain', 'what-more-can-i-say', 'the-yodel-song', 'do-re-mi-medley']
+  'k-pop': ['you & me']
 }
 
 const songToArtistMap = {
